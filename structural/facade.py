@@ -1,1 +1,0 @@
-# Facade Design Pattern

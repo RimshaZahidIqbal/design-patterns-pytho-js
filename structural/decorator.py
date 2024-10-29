@@ -1,1 +1,0 @@
-# Decorator Design Pattern
