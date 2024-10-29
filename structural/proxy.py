@@ -1,1 +1,0 @@
-# Proxy Design Pattern
